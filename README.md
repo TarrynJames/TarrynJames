@@ -5,8 +5,6 @@
 
 - [Active Directory Home Lab](https://github.com/tarrynjames/LABURL)
 - [Wazuh SIEM](https://github.com/tarrynjames/LABURL)
-- [Linux Apache Web Server](https://github.com/tarrynjames/LABURL)
-- [Network Traffic Analysis with Wireshark](https://github.com/tarrynjames/LABURL)
   
 <h2>🎓 Certifications</h2>
 
