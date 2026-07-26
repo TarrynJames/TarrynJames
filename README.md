@@ -4,4 +4,9 @@
 
 - [Active Directory Home Lab](https://github.com/tarrynjames/LABURL)
   
+<h2>Certifications</h2>
 
+- [CompTIA CySA+](YOUR_LINK_HERE)
+- [CompTIA Security+](YOUR_LINK_HERE)
+- [CompTIA Network+](YOUR_LINK_HERE)
+- [CompTIA A+](YOUR_LINK_HERE)
