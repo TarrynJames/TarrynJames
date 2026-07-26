@@ -8,8 +8,7 @@
   
 <h2>🎓 Certifications</h2>
 
-- [CompTIA CySA+](YOUR_LINK_HERE)
-- [CompTIA Security+](YOUR_LINK_HERE)
-- [CompTIA Network+](YOUR_LINK_HERE)
-- [CompTIA A+](YOUR_LINK_HERE)
-
+- [CompTIA CySA+]()
+- [CompTIA Security+](certifications/comptia-security-plus.pdf)
+- [CompTIA Network+](certifications/comptia-network-plus.pdf)
+- [CompTIA A+](certifications/comptia-a-plus.pdf)
