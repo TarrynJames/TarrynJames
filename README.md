@@ -4,7 +4,7 @@
 <h2>🔐 Projects:</h2>
 
 - [Wazuh SIEM](https://github.com/tarrynjames/LABURL)
-- [Network Traffic Analysis with Wireshark](https://github.com/tarrynjames/LABURL)
+- [Network Traffic Analysis with Wireshark](https://github.com/tarrynspeights/network-traffic-analysis)
   
 <h2>🎓 Certifications</h2>
 
