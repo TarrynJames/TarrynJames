@@ -6,6 +6,7 @@
 - [Wazuh SIEM](Coming Soon)
 - [Network Vulnerability Assessment with Nessus](https://github.com/TarrynSpeights/Network-Vulnerability-Assessment-with-Nessus)
 - [Network Traffic Analysis with Wireshark](https://github.com/tarrynspeights/network-traffic-analysis)
+- [Python Password Generator](https://github.com/TarrynSpeights/Python-Password-Generator)
   
 <h2>🎓 Certifications</h2>
 
