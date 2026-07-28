@@ -3,13 +3,13 @@
 
 <h2>🔐 Projects:</h2>
 
-- [Wazuh SIEM](https://github.com/tarrynjames/LABURL)
+- [Wazuh SIEM](Coming Soon)
 - [Network Vulnerability Assessment with Nessus](https://github.com/TarrynSpeights/Network-Vulnerability-Assessment-with-Nessus)
 - [Network Traffic Analysis with Wireshark](https://github.com/tarrynspeights/network-traffic-analysis)
   
 <h2>🎓 Certifications</h2>
 
-- [CompTIA CySA+]()
+- [CompTIA CySA+](Coming Soon)
 - [CompTIA Security+](certifications/comptia-security-plus.pdf)
 - [CompTIA Network+](certifications/comptia-network-plus.pdf)
 - [CompTIA A+](certifications/comptia-a-plus.pdf)
