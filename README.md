@@ -10,7 +10,7 @@
   
 <h2>🎓 Certifications</h2>
 
-- [CompTIA CySA+](Coming Soon)
+- [CompTIA CySA+](Scheduled September 22nd, 2026)
 - [CompTIA Security+](certifications/comptia-security-plus.pdf)
 - [CompTIA Network+](certifications/comptia-network-plus.pdf)
 - [CompTIA A+](certifications/comptia-a-plus.pdf)
