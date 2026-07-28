@@ -4,6 +4,7 @@
 <h2>🔐 Projects:</h2>
 
 - [Wazuh SIEM](https://github.com/tarrynjames/LABURL)
+- [Network Vulnerability Assessment with Nessus](https://github.com/tarrynspeights/Network-Vulnerability-Assessment)
 - [Network Traffic Analysis with Wireshark](https://github.com/tarrynspeights/network-traffic-analysis)
   
 <h2>🎓 Certifications</h2>
