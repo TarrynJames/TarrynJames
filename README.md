@@ -17,12 +17,18 @@
 
 <h2>📫 Connect with me:</h2>
 
-[<img align="left" alt="Tarryn Speights | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tarryn Speights | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Tarryn Speights | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+<p align="left">
 
-<br />
+<a href="https://linkedin.com/in/tarrynspeights">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[linkedin]: https://linkedin.com/in/tarrynspeights
-[github]: https://github.com/TarrynSpeights
-[email]: mailto:tarrynsjspeights@gmail.com
+<a href="mailto:tarrynsjspeights@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/TarrynSpeights">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
