@@ -3,7 +3,9 @@
 
 <h2>🔐 Projects:</h2>
 
-- [Wazuh SIEM](Coming Soon)
+## 💻 Featured Projects
+
+- [Azure SOC Implementation with Microsoft Sentinel](https://github.com/TarrynSpeights/Azure-SOC-Implementation)
 - [Network Vulnerability Assessment with Nessus](https://github.com/TarrynSpeights/Network-Vulnerability-Assessment-with-Nessus)
 - [Network Traffic Analysis with Wireshark](https://github.com/tarrynspeights/network-traffic-analysis)
 - [Python Password Generator](https://github.com/TarrynSpeights/Python-Password-Generator)
