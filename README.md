@@ -3,7 +3,6 @@
 
 <h2>🔐 Projects:</h2>
 
-## 💻 Featured Projects
 
 - [Detecting Failed Authentication Attempts Using Microsoft Sentinel](https://github.com/TarrynSpeights/Azure-SOC-Implementation)
 - [Network Vulnerability Assessment with Nessus](https://github.com/TarrynSpeights/Network-Vulnerability-Assessment-with-Nessus)
